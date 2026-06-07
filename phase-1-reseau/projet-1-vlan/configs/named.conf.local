@@ -1,0 +1,7 @@
+//
+// Do any local configuration here
+//
+zone "monlab.local" {
+  type master;
+  file "/etc/bind/db.monlab.local";
+};

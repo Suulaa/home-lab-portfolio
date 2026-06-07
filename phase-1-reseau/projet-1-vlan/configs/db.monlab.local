@@ -1,0 +1,12 @@
+; Zone monlab.local
+$TTL    604800
+@  IN  SOA  monlab.local. admin.monlab.local. (
+              2024010101
+              604800
+              86400
+              2419200
+              604800 )
+
+@   IN  NS   ns.monlab.local.
+ns  IN  A    192.168.10.1
+www IN  A    192.168.10.1
