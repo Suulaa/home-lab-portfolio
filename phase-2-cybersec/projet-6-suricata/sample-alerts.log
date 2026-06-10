@@ -1,0 +1,111 @@
+06/10/2026-20:38:57.739944  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.2:8 -> 192.168.10.1:9
+06/10/2026-20:38:57.740044  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.1:0 -> 192.168.10.2:9
+06/10/2026-20:39:00.106151  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.2:8 -> 192.168.10.1:9
+06/10/2026-20:39:00.106242  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.1:0 -> 192.168.10.2:9
+06/10/2026-21:23:23.724979  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:143
+06/10/2026-21:23:23.837621  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:8083
+06/10/2026-21:23:23.844650  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:9103
+06/10/2026-21:23:23.946067  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:3306
+06/10/2026-21:23:23.953297  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5987
+06/10/2026-21:23:24.055222  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:6580
+06/10/2026-21:23:24.064088  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:3871
+06/10/2026-21:23:24.163919  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:6580
+06/10/2026-21:23:24.173821  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5510
+06/10/2026-21:23:24.272776  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:9503
+06/10/2026-21:23:24.276477  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:2022
+06/10/2026-21:23:24.378927  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:6881
+06/10/2026-21:23:24.385327  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5998
+06/10/2026-21:23:24.488012  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1583
+06/10/2026-21:23:24.494554  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1174
+06/10/2026-21:23:24.596975  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1583
+06/10/2026-21:23:24.606083  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:8192
+06/10/2026-21:23:24.705723  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:6129
+06/10/2026-21:23:24.715591  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1433
+06/10/2026-21:23:24.727945  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:55055
+06/10/2026-21:23:24.820901  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1163
+06/10/2026-21:23:24.835097  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:8292
+06/10/2026-21:23:24.930984  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:2602
+06/10/2026-21:23:24.940741  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:19842
+06/10/2026-21:23:25.041469  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1201
+06/10/2026-21:23:25.048786  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:6788
+06/10/2026-21:23:25.152432  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:873
+06/10/2026-21:23:25.162588  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:52869
+06/10/2026-21:23:25.255066  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1862
+06/10/2026-21:23:25.255708  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:8007
+06/10/2026-21:23:25.262458  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1085
+06/10/2026-21:23:25.278070  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:52869
+06/10/2026-21:23:25.368053  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:7676
+06/10/2026-21:23:25.372181  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:9898
+06/10/2026-21:23:25.379536  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1071
+06/10/2026-21:23:25.468489  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:84
+06/10/2026-21:23:25.480478  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1721
+06/10/2026-21:23:25.484491  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:7625
+06/10/2026-21:23:25.494083  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1300
+06/10/2026-21:23:25.584871  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:65129
+06/10/2026-21:23:25.591646  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5050
+06/10/2026-21:23:25.598902  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:4449
+06/10/2026-21:23:25.607084  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:7741
+06/10/2026-21:23:25.693671  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1080
+06/10/2026-21:23:25.700854  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:13722
+06/10/2026-21:23:25.710688  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5815
+06/10/2026-21:23:25.719805  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5440
+06/10/2026-21:23:25.806075  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:10243
+06/10/2026-21:23:25.813520  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:32768
+06/10/2026-21:23:25.821158  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1352
+06/10/2026-21:23:25.831944  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1106
+06/10/2026-21:23:25.918158  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:49154
+06/10/2026-21:23:25.925713  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:5414
+06/10/2026-21:23:25.935580  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1089
+06/10/2026-21:23:26.013669  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:987
+06/10/2026-21:23:26.030337  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:3006
+06/10/2026-21:23:26.035162  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1024
+06/10/2026-21:23:26.044763  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:54045
+06/10/2026-21:23:26.126407  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:2607
+06/10/2026-21:23:26.139384  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:617
+06/10/2026-21:23:26.146921  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:50800
+06/10/2026-21:23:26.159354  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:49
+06/10/2026-21:23:26.241413  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:9917
+06/10/2026-21:23:26.255267  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:38292
+06/10/2026-21:23:26.260595  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:9000
+06/10/2026-21:23:26.275599  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:4125
+06/10/2026-21:23:26.353836  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:5100
+06/10/2026-21:23:26.366609  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:61532
+06/10/2026-21:23:26.373632  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:4045
+06/10/2026-21:23:26.389182  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:6106
+06/10/2026-21:23:26.463670  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:9081
+06/10/2026-21:23:26.480917  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5985
+06/10/2026-21:23:26.485343  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:711
+06/10/2026-21:23:26.558652  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:55600
+06/10/2026-21:23:26.575933  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:2522
+06/10/2026-21:23:26.591711  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1287
+06/10/2026-21:23:26.594951  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1840
+06/10/2026-21:23:26.671000  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1259
+06/10/2026-21:23:26.687653  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:3268
+06/10/2026-21:23:26.700727  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:3689
+06/10/2026-21:23:26.707285  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:9003
+06/10/2026-21:23:26.786271  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:843
+06/10/2026-21:23:26.806452  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:2909
+06/10/2026-21:23:26.814252  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:722
+06/10/2026-21:23:26.822961  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:20828
+06/10/2026-21:23:26.899484  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:5988
+06/10/2026-21:23:26.915370  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:3283
+06/10/2026-21:23:26.926845  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1234
+06/10/2026-21:23:26.939605  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:19780
+06/10/2026-21:23:27.008387  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:1166
+06/10/2026-21:23:27.024219  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:5101
+06/10/2026-21:23:27.040257  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:35500
+06/10/2026-21:23:27.048021  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:1108
+06/10/2026-21:23:27.117362  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:30000
+06/10/2026-21:23:27.133154  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:50500
+06/10/2026-21:23:27.148898  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:9943
+06/10/2026-21:23:27.158605  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38022 -> 192.168.10.1:625
+06/10/2026-21:23:27.247466  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:2967
+06/10/2026-21:23:27.266456  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:38024 -> 192.168.10.1:50389
+06/10/2026-21:23:27.612762  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:60066 -> 192.168.10.1:22
+06/10/2026-21:23:34.799472  [**] [1:1000001:1] ICMP Ping detecte [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.10.2:8 -> 192.168.10.1:9
+06/10/2026-21:23:34.799472  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.2:8 -> 192.168.10.1:9
+06/10/2026-21:23:34.799513  [**] [1:1000001:1] ICMP Ping detecte [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.10.1:0 -> 192.168.10.2:9
+06/10/2026-21:23:34.799513  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.1:0 -> 192.168.10.2:9
+06/10/2026-21:23:37.139613  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.2:8 -> 192.168.10.1:9
+06/10/2026-21:23:37.139651  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 192.168.10.1:0 -> 192.168.10.2:9
+06/10/2026-21:23:38.613373  [**] [1:1000003:1] Scan de ports detecte [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.10.2:47238 -> 192.168.10.1:22
