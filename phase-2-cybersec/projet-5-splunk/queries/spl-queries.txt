@@ -1,0 +1,13 @@
+# SPL queries I used in Project 5
+
+# 1. view all auth.log events
+ source="/var/log/auth.log"
+
+# 2. View failed SHH attemps
+ source="/var/log/auth.log" Failed
+
+# 3. View invalid attemps
+ source="/var/log/auth.log" Invalid user
+
+# 4. View all system logs
+ source="/var/log/syslog"
